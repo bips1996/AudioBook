@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c26768e3-9a97-4419-a999-564eb9838881" name="Default Changelist" comment="" />
+    <list default="true" id="c26768e3-9a97-4419-a999-564eb9838881" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kQSFK6plWqfOeTDme8yF1tRN10" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -71,22 +78,22 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1605706894172" />
-    <state width="1244" height="290" key="GridCell.Tab.0.bottom" timestamp="1605712772473">
+    <state width="1244" height="99" key="GridCell.Tab.0.bottom" timestamp="1605715721552">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1244" height="290" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1605712772473" />
-    <state width="1244" height="290" key="GridCell.Tab.0.center" timestamp="1605712772473">
+    <state width="1244" height="99" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1605715721552" />
+    <state width="1244" height="99" key="GridCell.Tab.0.center" timestamp="1605715721552">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1244" height="290" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1605712772473" />
-    <state width="1244" height="290" key="GridCell.Tab.0.left" timestamp="1605712772473">
+    <state width="1244" height="99" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1605715721552" />
+    <state width="1244" height="99" key="GridCell.Tab.0.left" timestamp="1605715721551">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1244" height="290" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1605712772473" />
-    <state width="1244" height="290" key="GridCell.Tab.0.right" timestamp="1605712772473">
+    <state width="1244" height="99" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1605715721551" />
+    <state width="1244" height="99" key="GridCell.Tab.0.right" timestamp="1605715721552">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state width="1244" height="290" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1605712772473" />
+    <state width="1244" height="99" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1605715721552" />
     <state x="174" y="0" key="SettingsEditor" timestamp="1605712063961">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
